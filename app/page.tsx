@@ -3,7 +3,7 @@
 import WebApp from '@twa-dev/sdk'
 import { useEffect, useState } from 'react'
 
-// Define the interface for user data
+
 interface UserData {
   id: number;
   first_name: string;
